@@ -1,5 +1,5 @@
 ##如何在BAE通过web.py制作网站
-testxxx
+
 ####1. 添加依赖
 
 	touch requirements.txt
