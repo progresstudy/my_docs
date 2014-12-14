@@ -1,6 +1,4 @@
-:slug: 如何在BAE制作网站
-
-##如何在BAE通过web.py制作网站
+:slug: 如何在BAE通过web.py制作网站
 
 ####1. 添加依赖
 
